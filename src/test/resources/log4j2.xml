@@ -26,7 +26,7 @@
 
     </Appenders>
     <Loggers>
-        <logger name="com.allclearid" LEVEL="DEBUG"/>
+        <logger name="com.zkendall" LEVEL="DEBUG"/>
 
         <root level="INFO">
             <appender-ref ref="STDOUT"/>
